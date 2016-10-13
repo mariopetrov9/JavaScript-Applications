@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "username": "mario",
+      "passHash": "a4c8b6e9334aa237ca7649ea423a80b891209b9c",
+      "usernameLower": "mario",
+      "authKey": "undefined!fDBR=ufGyUrykgobw&Y^ChKcwxGVyP)ux_G(aEC=l(ybRVF!@$",
+      "id": "30cf6a63-cbd8-4d71-9941-c79ef8bee6fa",
+      "todos": [
+        {
+          "id": 320682,
+          "text": "asdasd",
+          "state": false,
+          "category": "asdasd"
+        },
+        {
+          "id": 334924,
+          "text": "asdadas",
+          "state": false,
+          "category": "asdasd"
+        }
+      ],
+      "events": []
+    }
+  ]
+}

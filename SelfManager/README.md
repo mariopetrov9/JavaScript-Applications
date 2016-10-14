@@ -1,4 +1,4 @@
-# Academy Self Manager - JavaScript Applications Sample Exam
+# Academy Self Manager - JavaScript Applications
 
 ##  Description:
 
